@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.major.Major_Assignment.MajorAssignmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.225 s -- in com.major.Major_Assignment.MajorAssignmentApplicationTests
